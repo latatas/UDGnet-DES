@@ -1,2 +1,3 @@
 The complete catalog contains 2,991 samples, including 38 UDGs with redshifts and 2,952 UDG candidates without redshifts.
+
 The columns are: (1) COADD_ID, the unique ID of the source in DES DR2; (2-3) Galaxy position (RA and Dec., respectively) in degrees(J2000); (4) gmag, the g-band magnitude of the source; (5) q, the axis ratio of the source; (6) g-i, the g-i color index of the source; (7) mu_mean_g, the mean effective surface brightness in the g-band; (8-9) redshift and effective radius.
